@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f8e0395.chunk.css",
+    "main.js": "/static/js/main.b42f18f6.chunk.js",
+    "main.js.map": "/static/js/main.b42f18f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7918a0be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7918a0be.js.map",
+    "static/css/2.f98a1de1.chunk.css": "/static/css/2.f98a1de1.chunk.css",
+    "static/js/2.0a330192.chunk.js": "/static/js/2.0a330192.chunk.js",
+    "static/js/2.0a330192.chunk.js.map": "/static/js/2.0a330192.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d1c326903c1def7f18f21a239ba4d3b8.js": "/precache-manifest.d1c326903c1def7f18f21a239ba4d3b8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f98a1de1.chunk.css.map": "/static/css/2.f98a1de1.chunk.css.map",
+    "static/css/main.7f8e0395.chunk.css.map": "/static/css/main.7f8e0395.chunk.css.map",
+    "static/js/2.0a330192.chunk.js.LICENSE.txt": "/static/js/2.0a330192.chunk.js.LICENSE.txt",
+    "static/media/Shouye.css": "/static/media/taobao.6b55396e.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7918a0be.js",
+    "static/css/2.f98a1de1.chunk.css",
+    "static/js/2.0a330192.chunk.js",
+    "static/css/main.7f8e0395.chunk.css",
+    "static/js/main.b42f18f6.chunk.js"
+  ]
+}
